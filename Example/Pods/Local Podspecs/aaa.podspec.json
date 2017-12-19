@@ -1,0 +1,22 @@
+{
+  "name": "aaa",
+  "version": "0.1.0",
+  "summary": "A short description of aaa.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gogoto2@126.com/aaa",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gogoto2@126.com": "AB056036jinyongshan@ab-insurance.com"
+  },
+  "source": {
+    "git": "https://github.com/gogoto2@126.com/aaa.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "aaa/Classes/**/*"
+}

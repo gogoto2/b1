@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'aaa_Example' do
-  pod 'aaa', :path => '../'
+  pod 'aaa', :path => '../aaa.podspec'
 
   target 'aaa_Tests' do
     inherit! :search_paths
